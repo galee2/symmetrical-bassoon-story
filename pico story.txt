@@ -1,0 +1,23 @@
+[33mcommit eca90787ecbe137093dd7bbe87121315b5c2dbb5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Noah Tanzi <tanzi@snares-06.cs.wisc.edu>
+Date:   Fri Oct 11 01:17:46 2019 -0500
+
+    Noah Tanzi addition
+
+[33mcommit 20a563a4e03ce34841602947419ea775de1df5b2[m
+Author: Gene Lee <gene@royal-05.cs.wisc.edu>
+Date:   Wed Oct 9 20:27:58 2019 -0500
+
+    first paragraph edit
+
+[33mcommit 9db9396773bd21d070b6cee5e4667aec6d1da3ca[m
+Author: Gene Lee <gene@royal-02.cs.wisc.edu>
+Date:   Thu Oct 3 14:55:39 2019 -0500
+
+    first paragraph
+
+[33mcommit e18f771ce973d8de707b6e47fb5cd658854511e4[m
+Author: galee2 <55897917+galee2@users.noreply.github.com>
+Date:   Fri Sep 27 16:08:58 2019 -0500
+
+    Initial commit
